@@ -1,0 +1,21 @@
+.nav li{
+list-style:none;
+width:100px;
+height:50px;
+background-color: rgb(255, 127, 202);
+text-align: center;
+float:left; 
+}
+body{
+    border: rgb(106, 165, 42);
+    padding-top: 0%;
+    padding-bottom: 10%;
+    padding-right: 25px;
+    margin-left: 0%;
+    background-color: rgb(80, 255, 214);
+}
+
+li:hover{ 
+    background-color: #e91e73;
+    
+}
